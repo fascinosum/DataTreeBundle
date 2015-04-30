@@ -1,2 +1,2 @@
 # DataTreeBundle
-Test bundle for Symfony2
+Test Bundle for Symfony2 (>=2.2)

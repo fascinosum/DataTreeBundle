@@ -1,0 +1,26 @@
+{
+    "name": "fascinosum/datatreebundle",
+    "description": "Symfony2 Bundle for work with data lists",
+    "type": "symfony-bundle",
+    "keywords": ["data tree"],    
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "ML"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "symfony/symfony": "~2.2@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fascinosum\\DataTreeBundle\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
